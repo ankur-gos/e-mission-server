@@ -1,11 +1,11 @@
-arrow
-attrdict
+arrow==0.10.0
+attrdict==2.0.0
 CherryPy==3.6.0
 cycler==0.10.0
-enum34
+enum34==1.1.6
 functools32==3.2.3.post2
 geojson==1.0.9
-google-api-python-client
+google-api-python-client==1.6.2
 httplib2==0.10.3
 lxml==3.8.0
 matplotlib==2.0.2
